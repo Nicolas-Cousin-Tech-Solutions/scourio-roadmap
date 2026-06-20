@@ -1,25 +1,12 @@
 ---
-name: Spec / Feature
-about: Suivi d'une fonctionnalité issue de la méthode SpecKit
+name: Nouvelle fonctionnalité
+about: Décrire une fonctionnalité à développer
 title: "[MODULE-X] "
 labels: spec
 ---
  
-**Module** :
-<!-- Module 1 (SEO), Module 2 (backlinks), Module 3 (clones) -->
+**Module concerné** :
+<!-- Module 1 (surveillance SEO), Module 2 (backlinks), Module 3 (clones) -->
  
-**Étape SpecKit** :
-- [ ] Constitution
-- [ ] Specify
-- [ ] Clarify
-- [ ] Plan
-- [ ] Tasks
-**Description fonctionnelle** :
-<!-- Comportement observable attendu, en prose libre - pas de détail d'implémentation sensible ici -->
- 
-**Statut** :
-- [ ] Spec validée
-- [ ] En développement
-- [ ] Testé
-- [ ] Livré en beta
- 
+**Description** :
+<!-- Ce que la fonctionnalité doit faire, en langage clair, compréhensible par tous (ce repo est public). Pas de détail technique, pas de chiffres précis sur les seuils ou calculs internes. -->
