@@ -10,12 +10,7 @@ labels: beta-feedback
 **Date** :
  
 **Module / fonctionnalité concernée** :
-<!-- ex: Module 1 - SERP scan, Module 1 - alertes email, etc. -->
+<!-- ex: Module 1 - recherche des sites suspects, Module 1 - alertes par email, etc. -->
  
 **Retour** :
 <!-- Description du feedback, problème rencontré, ou suggestion -->
- 
-**Statut** :
-- [ ] À traiter
-- [ ] En cours
-- [ ] Résolu
